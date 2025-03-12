@@ -1,0 +1,20 @@
+.underline{
+    width: 70px;
+    height: 5px;
+    background-color: blue;
+    margin: 8px auto ;
+    margin-bottom: 30px;
+}
+body{
+    text-align: center;
+    background-color: goldenrod;
+
+}
+section{
+    border: 10px solid rgb(7, 223, 137);
+    border-radius: 30px;
+    margin: 15px;
+}
+h1{
+    color: crimson;
+}
